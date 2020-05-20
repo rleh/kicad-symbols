@@ -1,0 +1,615 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G431C6Tx
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431C8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431CBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431C6Ux
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431C8Ux
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431CBUx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431CBYx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 41 GPIO, WLCSP-49
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431K6Tx
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431K8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431KBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431K6Ux
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431K8Ux
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431KBUx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431M6Tx
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431M8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431MBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431R6Ix
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, UFBGA-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431R8Ix
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, UFBGA-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431RBIx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, UFBGA-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431R6Tx
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431R8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431RBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431V6Tx
+D ARM Cortex-M4 MCU, 32KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431V8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G431VBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP STM32G441CBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441CBUx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441CBYx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 41 GPIO, WLCSP-49
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441KBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441KBUx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441MBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441RBIx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, UFBGA-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441RBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G441VBTx
+D ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g441cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CBUx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CCUx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473CEUx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473MBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473MCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473METx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473MEYx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 67 GPIO, WLCSP-81
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473QBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473QCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473QETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473RBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473RCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473RETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VBHx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VCHx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VEHx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VBIx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VCIx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VEIx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G473VETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g473cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CBUx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CCUx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474CEUx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474MBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474MCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474METx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474MEYx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 67 GPIO, WLCSP-81
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474QBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474QCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474QETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474RBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474RCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474RETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VBHx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VCHx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VEHx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VBIx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VCIx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VEIx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VBTx
+D ARM Cortex-M4 MCU, 128KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VCTx
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G474VETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g474cb.pdf
+$ENDCMP
+#
+$CMP STM32G483CETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483CEUx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483METx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483MEYx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 67 GPIO, WLCSP-81
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483QETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483RETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483VEHx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483VEIx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G483VETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x3
+F https://www.st.com/resource/en/datasheet/stm32g483ce.pdf
+$ENDCMP
+#
+$CMP STM32G484CETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 38 GPIO, LQFP-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484CEUx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 42 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484METx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-80
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484MEYx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 67 GPIO, WLCSP-81
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484QETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 107 GPIO, LQFP-128
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484RETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 52 GPIO, LQFP-64
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484VEHx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, TFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484VEIx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, UFBGA-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+$CMP STM32G484VETx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 170MHz, 1.71-3.6V, 86 GPIO, LQFP-100
+K ARM Cortex-M4 STM32G4 STM32G4x4
+F https://www.st.com/resource/en/datasheet/stm32g484ce.pdf
+$ENDCMP
+#
+#End Doc Library

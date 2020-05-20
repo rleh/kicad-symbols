@@ -1,93 +1,339 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM32H742AGIx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 132 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742AIIx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 132 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742BGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742BITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742IGKx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 138 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742IIKx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 138 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742IGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 138 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742IITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 138 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742VGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, TFBGA-100
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742VIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, TFBGA-100
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742VGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742VITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742XGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742XIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742ZGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H742ZITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H742
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743AGIx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 132 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743AIIx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 132 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743BGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
 $CMP STM32H743BITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 168 GPIO, LQFP-208
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743IGKx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 140 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743IGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 140 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
 $CMP STM32H743IIKx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 140 GPIO, UFBGA-176
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 140 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
 $CMP STM32H743IITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 140 GPIO, LQFP-176
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 140 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743VGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, TFBGA-100
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743VIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, TFBGA-100
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743VGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
 $CMP STM32H743VITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 82 GPIO, LQFP-100
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.71-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743XGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
 $CMP STM32H743XIHx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
+$ENDCMP
+#
+$CMP STM32H743ZGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
 $CMP STM32H743ZITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 114 GPIO, LQFP-144
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.62-3.6V, 114 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H743/753
+F https://www.st.com/resource/en/datasheet/stm32h743vi.pdf
 $ENDCMP
 #
-$CMP STM32H750IBKx
-D ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 140 GPIO, UFBGA-176
-K ARM Cortex-M7 STM32H7
-F https://www.st.com/resource/en/datasheet/stm32h750ib.pdf
+$CMP STM32H745BGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 150 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H750VBTx
-D ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 82 GPIO, LQFP-100
-K ARM Cortex-M7 STM32H7
-F https://www.st.com/resource/en/datasheet/stm32h750ib.pdf
+$CMP STM32H745BITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 150 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H750XBHx
-D ARM Cortex-M7 MCU, 128KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
-K ARM Cortex-M7 STM32H7
-F https://www.st.com/resource/en/datasheet/stm32h750ib.pdf
+$CMP STM32H745IGKx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 128 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753BITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 168 GPIO, LQFP-208
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745IGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 121 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753IIKx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 140 GPIO, UFBGA-176
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745IIKx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 128 GPIO, UFBGA-176
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753IITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 140 GPIO, LQFP-176
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745IITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 121 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753VITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 82 GPIO, LQFP-100
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745XGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753XIHx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745XIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
 $ENDCMP
 #
-$CMP STM32H753ZITx
-D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 114 GPIO, LQFP-144
-K ARM Cortex-M7 STM32H7 STM32H7x3
-F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$CMP STM32H745ZGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 99 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
+$ENDCMP
+#
+$CMP STM32H745ZITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 99 GPIO, LQFP-144
+K ARM Cortex-M7 STM32H7 STM32H745/755
+F https://www.st.com/resource/en/datasheet/stm32h745zg.pdf
+$ENDCMP
+#
+$CMP STM32H747AGIx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747AIIx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747BGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 141 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747BITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 141 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747IGTx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747IITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747XGHx
+D ARM Cortex-M7 MCU, 1024KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747XIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H747ZIYx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 101 GPIO, WLCSP-156
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h747ag.pdf
+$ENDCMP
+#
+$CMP STM32H757AIIx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, UFBGA-169
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h757ai.pdf
+$ENDCMP
+#
+$CMP STM32H757BITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 141 GPIO, LQFP-208
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h757ai.pdf
+$ENDCMP
+#
+$CMP STM32H757IITx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 114 GPIO, LQFP-176
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h757ai.pdf
+$ENDCMP
+#
+$CMP STM32H757XIHx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.7-3.6V, 168 GPIO, TFBGA-240
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h757ai.pdf
+$ENDCMP
+#
+$CMP STM32H757ZIYx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 480MHz, 1.62-3.6V, 101 GPIO, WLCSP-156
+K ARM Cortex-M7 STM32H7 STM32H747/757
+F https://www.st.com/resource/en/datasheet/stm32h757ai.pdf
 $ENDCMP
 #
 #End Doc Library
